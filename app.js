@@ -63974,7 +63974,7 @@ Ext.application({
 
     launch: function() {
         // Destroy the #appLoadingIndicator element
-        //Ext.fly('appLoadingIndicator').destroy();
+        Ext.fly('appLoadingIndicator').destroy();
 		Ext.Viewport.setMasked({
 			xtype: 'loadmask',			
 			indicator: true

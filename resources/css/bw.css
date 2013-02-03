@@ -1,0 +1,102 @@
+.projectMainText{
+	color:#FFFFFF;
+	font-family:'Verdana';
+	font-size: 15px;
+}
+
+.projectMainTextSmall{
+	color:#FFFFFF;
+	font-family:'Verdana';
+	font-size: 12px;
+}
+
+.grid-header-small{
+	color:#FFFFFF;
+	font-family:'Verdana';
+	font-size: 10px;
+}
+
+.place-detail-thumb{
+	color:#000000;
+	font-family:'Verdana';
+	font-size: 10px;
+}
+.place-detail-thumb-bold{
+	color:#000000;
+	font-weight:bold;
+	font-family:'Verdana';
+	font-size: 10px;
+}
+.news-overlay-title{
+	color:#000000;
+	font-family:'Verdana';
+	font-size: 12px;
+	font-weight:bold;
+}
+
+.news-overlay-desc{
+	color:#000000;
+	font-family:'Verdana';
+	font-size: 12px;	
+}
+
+.tempShow{
+	color:#FFFFFF;
+	font-family:'Verdana';
+	font-size: 25px;
+}
+
+.projectHeadingText{
+	color:#FFFFFF;
+	font-size: 30px;
+	font-family: 'Poiret One', serif;
+}
+
+.projectSubHeadingText{
+	color:#FFFFFF;
+	font-size: 20px;
+	font-family: 'Poiret One', serif;
+}
+
+.Pompiere{
+	color:#FFFFFF;
+	font-size: 25px;
+	font-family: 'Pompiere', cursive;
+}
+
+.dayClearBG
+{   
+ 	 background: url(../../app/assets/weather/bg/clear.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.placeThumb-cls{
+	background-color:#FFFFFF;
+	border-radius:5px;
+	box-shadow: 2px 2px 2px #000000;
+}
+
+.placeThumbText-cls{
+	color:#FFFFFF;
+	font-family:'Verdana';
+	font-size: 8px;
+}
+
+.transparent
+{
+	background:transparent;
+}
+.my-dataview{
+    background:transparent;    
+    padding: 10px;
+    padding-left: 10px;
+    /*border-bottom: 1px solid #ccc;*/
+}
+
+.x-touchgrid-item{
+	color:#FFFFFF;
+	fontSize:12px;
+}
